@@ -1,0 +1,15 @@
+# If you use Cocoapods you surely have a workspace workspace("YourAppName.xcworkspace")
+# Your default project scheme
+scheme("learning cicd")
+
+# The project default configuration to use
+configuration("Debug")
+
+# If it should clean the project before building
+clean(true)
+
+# The default export method
+export_method("development")
+
+# The path to your build folder
+build_path("./build")

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='learning cicdUITests.xctest' tests='8' failures='0'>
+  <testsuite name='learning_cicdTests.learning_cicdTests' tests='2' failures='0'>
+    <testcase classname='learning_cicdTests.learning_cicdTests' name='testExample' time='0.002'/>
+    <testcase classname='learning_cicdTests.learning_cicdTests' name='testPerformanceExample' time='0.386'/>
+  </testsuite>
+  <testsuite name='learning_cicdUITests.learning_cicdUITests' tests='2' failures='0'>
+    <testcase classname='learning_cicdUITests.learning_cicdUITests' name='testExample' time='1.789'/>
+    <testcase classname='learning_cicdUITests.learning_cicdUITests' name='testLaunchPerformance' time='71.443'/>
+  </testsuite>
+  <testsuite name='learning_cicdUITests.learning_cicdUITestsLaunchTests' tests='4' failures='0'>
+    <testcase classname='learning_cicdUITests.learning_cicdUITestsLaunchTests' name='testLaunch' time='5.015'/>
+    <testcase classname='learning_cicdUITests.learning_cicdUITestsLaunchTests' name='testLaunch' time='5.352'/>
+    <testcase classname='learning_cicdUITests.learning_cicdUITestsLaunchTests' name='testLaunch' time='3.829'/>
+    <testcase classname='learning_cicdUITests.learning_cicdUITestsLaunchTests' name='testLaunch' time='5.349'/>
+  </testsuite>
+</testsuites>
